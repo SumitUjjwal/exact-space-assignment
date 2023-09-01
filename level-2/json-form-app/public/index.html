@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>JSON Form App</title>
+    <link rel="stylesheet" href="./style.css">
+</head>
+
+<body>
+    <div class="container">
+        <!-- JSON data input container -->
+        <div class="leftContainer">
+            <form id="form">
+                <h2>Enter JSON Data:</h2>
+                <textarea id="inputJsonData" name="inputJsonData" placeholder="Write your JSON data here..."
+                    required></textarea>
+                <input type="submit" id="submitBtn">
+            </form>
+        </div>
+
+        <!-- JSON data output container -->
+        <div class="rightContainer">
+            <h2>Formatted JSON Data:</h2>
+            <div id="box">
+                <div id="formContainer">
+                    <!-- formatted JSON data will be inserted here -->
+                </div>
+            </div>
+        </div>
+
+    </div>
+</body>
+<script src="./script.js"></script>
+</html>
