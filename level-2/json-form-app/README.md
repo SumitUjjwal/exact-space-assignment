@@ -22,7 +22,7 @@ To run 'json-form-app' locally, follow these steps:
 1. **Clone the Repository:**
 
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/SumitUjjwal/exact-space-assignment.git
    cd level-2/json-form-app/
    ```
 
