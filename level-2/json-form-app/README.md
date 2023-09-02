@@ -6,9 +6,9 @@ This assignment contains 'json-form-app,' a purposeful tool designed for JSON da
 
 ## Prerequisites
 
-- [Node.js](https://nodejs.org/) installed
-- [Docker](https://www.docker.com/) installed
-- [Git](https://git-scm.com/) installed
+- [Node.js](https://nodejs.org/)
+- [Docker](https://www.docker.com/)
+- [Git](https://git-scm.com/)
 
 ## Installation
 
